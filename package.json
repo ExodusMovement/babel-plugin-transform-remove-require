@@ -1,0 +1,17 @@
+{
+  "name": "@exodus/babel-plugin-transform-remove-require",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "repository": "https://github.com/ExodusMovement/babel-plugin-transform-remove-require",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "eslint": "^6.1.0",
+    "fs-extra": "^8.1.0",
+    "jest": "^24.8.0"
+  }
+}
