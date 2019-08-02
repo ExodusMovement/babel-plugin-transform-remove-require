@@ -4,6 +4,9 @@
   "main": "lib/index.js",
   "license": "MIT",
   "repository": "https://github.com/ExodusMovement/babel-plugin-transform-remove-require",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "lint": "eslint .",
     "test": "jest"
